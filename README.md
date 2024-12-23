@@ -6,4 +6,4 @@ Manually set target\_folder and save\_dir in train.py, and set download=True whe
 
 Evaluation:
 
-Manually set model path and target path in eval.py and run eval.py to evaluate the SSIM score on the test set.\\
+Manually set model path and target path in eval.py and run eval.py to evaluate the SSIM score on the test set.
